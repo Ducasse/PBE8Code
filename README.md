@@ -8,5 +8,6 @@ The snippets of the book [Pharo by example 8.0](http://books.pharo.org)
 1. 
 1. 
 
+
 1. 
 1. 
